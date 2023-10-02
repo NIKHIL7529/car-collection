@@ -1,0 +1,192 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "Toyota RAV4",
+        "year": 2021,
+        "people": 4,
+        "fuelEfficiency": 6.1,
+        "fuelType": "Hybrid",
+        "imageSrc": "https://media.istockphoto.com/id/1152427256/photo/toyota-rav4-hybrid-on-the-road.jpg?s=612x612&w=0&k=20&c=58VwLX3Sb0WMPhDrI0m_MZLi0Zba3pUxPCA09XHfXJ4=",
+        "transmission": "Automatic",
+        "price": 440
+      },
+      {
+        "id": 2,
+        "name": "Honda Civic",
+        "year": 2020,
+        "people": 5,
+        "fuelEfficiency": 7.2,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://www.motortrend.com/uploads/sites/5/2017/04/2017-Honda-Civic-Type-R-front-three-quarter-in-motion-09.jpg",
+        "transmission": "Automatic",
+        "price": 380
+      },
+      {
+        "id": 3,
+        "name": "Ford Mustang",
+        "year": 2022,
+        "people": 2,
+        "fuelEfficiency": 9.8,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://c4.wallpaperflare.com/wallpaper/493/666/566/sunset-mustang-ford-ford-mustang-wallpaper-preview.jpg",
+        "transmission": "Manual",
+        "price": 550
+      },
+      {
+        "id": 4,
+        "name": "Tesla Model S",
+        "year": 2021,
+        "people": 4,
+        "fuelEfficiency": 0, 
+        "fuelType": "Electric",
+        "imageSrc": "https://images6.alphacoders.com/478/478443.jpg",
+        "transmission": "Automatic",
+        "price": 680
+      },
+      {
+        "id": 5,
+        "name": "Chevrolet Malibu",
+        "year": 2022,
+        "people": 5,
+        "fuelEfficiency": 8.5,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://c4.wallpaperflare.com/wallpaper/664/287/606/chevrolet-malibu-car-wallpaper-preview.jpg",
+        "transmission": "Automatic",
+        "price": 420
+      },
+      {
+        "id": 6,
+        "name": "Nissan Altima",
+        "year": 2020,
+        "people": 5,
+        "fuelEfficiency": 7.8,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://images.fitmentindustries.com/web-compressed/278677-1-2012-altima-nissan-k-sport-coilovers-esr-sr01-silver.jpg",
+        "transmission": "Automatic",
+        "price": 390
+      },
+      {
+        "id": 7,
+        "name": "BMW 3 Series",
+        "year": 2022,
+        "people": 5,
+        "fuelEfficiency": 9.2,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://c4.wallpaperflare.com/wallpaper/156/696/888/bmw-red-tuning-racing-bmw-series-m-bmw-3-series-bmw-e92-m3-1680x1050-cars-bmw-hd-art-wallpaper-preview.jpg",
+        "transmission": "Automatic",
+        "price": 620
+      },
+      {
+        "id": 8,
+        "name": "Hyundai Sonata",
+        "year": 2021,
+        "people": 5,
+        "fuelEfficiency": 8.1,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://c4.wallpaperflare.com/wallpaper/158/271/656/2015-hyundai-sonata-orange-and-black-hyundai-car-wallpaper-preview.jpg",
+        "transmission": "Automatic",
+        "price": 400
+      },
+      {
+        "id": 9,
+        "name": "Kia Forte",
+        "year": 2020,
+        "people": 5,
+        "fuelEfficiency": 7.5,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://c4.wallpaperflare.com/wallpaper/193/614/555/2014-kia-forte-koup-wallpaper-preview.jpg",
+        "transmission": "Automatic",
+        "price": 350
+      },
+      {
+        "id": 10,
+        "name": "Mazda CX-5",
+        "year": 2021,
+        "people": 5,
+        "fuelEfficiency": 8.7,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://c4.wallpaperflare.com/wallpaper/143/315/830/mazda-mazda-cx-5-black-car-car-wallpaper-preview.jpg",
+        "transmission": "Automatic",
+        "price": 420
+      },
+      {
+        "id": 11,
+        "name": "Audi Q5",
+        "year": 2022,
+        "people": 5,
+        "fuelEfficiency": 9.0,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://w0.peakpx.com/wallpaper/253/576/HD-wallpaper-2009-audi-q5-custom-concept-front-car.jpg",
+        "transmission": "Automatic",
+        "price": 580
+      },
+      {
+        "id": 12,
+        "name": "Subaru Outback",
+        "year": 2021,
+        "people": 5,
+        "fuelEfficiency": 8.2,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://e0.pxfuel.com/wallpapers/343/107/desktop-wallpaper-subaru-subaru-outback.jpg",
+        "transmission": "Automatic",
+        "price": 410
+      },
+      {
+        "id": 13,
+        "name": "Volkswagen Golf",
+        "year": 2022,
+        "people": 5,
+        "fuelEfficiency": 7.6,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://c4.wallpaperflare.com/wallpaper/618/728/941/volkswagen-golf-gti-black-color-car-road-sunset-wallpaper-preview.jpg",
+        "transmission": "Automatic",
+        "price": 380
+      },
+      {
+        "id": 14,
+        "name": "Jeep Wrangler",
+        "year": 2021,
+        "people": 4,
+        "fuelEfficiency": 8.0,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://w0.peakpx.com/wallpaper/266/732/HD-wallpaper-jeep-switchback-concept-lift-lite-blue-custom-jeep.jpg",
+        "transmission": "Automatic",
+        "price": 470
+      },
+      {
+        "id": 15,
+        "name": "Lexus ES",
+        "year": 2022,
+        "people": 5,
+        "fuelEfficiency": 8.6,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://c4.wallpaperflare.com/wallpaper/368/712/39/lexus-lexus-es-black-car-car-wallpaper-preview.jpg",
+        "transmission": "Automatic",
+        "price": 520
+      },
+      {
+        "id": 16,
+        "name": "Mercedes-Benz C-Class",
+        "year": 2020,
+        "people": 5,
+        "fuelEfficiency": 9.3,
+        "fuelType": "Gasoline",
+        "imageSrc": "https://c4.wallpaperflare.com/wallpaper/330/847/596/amg-mercedes-benz-c-class-convertible-wallpaper-preview.jpg",
+        "transmission": "Automatic",
+        "price": 650
+      },
+      {
+        "id": 17,
+        "name": "Acura MDX",
+        "year": 2021,
+        "people": 7,
+        "fuelEfficiency": 7.4,
+        "fuelType": "Gasoline",
+        "imageSrc": "data:image/jpeg;base64,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",
+        "transmission": "Automatic",
+        "price": 540
+      }
+    ]
+  }
+  
